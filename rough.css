@@ -1,0 +1,27 @@
+.pp,.p{
+  color:red;
+  font-family: cursive;
+  align-items: center;
+border: 2px solid yellow;
+color: yellow;
+background-color: blue;
+border-style: dashed;
+
+}
+h1{
+  color:red;
+  font-family: cursive;
+  align-items: center;
+  text-align: center;
+
+
+}
+body{
+
+
+
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+
+
+}
