@@ -7,7 +7,7 @@
     <meta name="description" content="email on whatsapp">
     <meta name="viewport" content="width=device-width initial-scale=2.0">
     <title>email on whatsapp</title>
-    <link rel="stylesheet" href="D:\project\email\rough.css">
+    <link rel="stylesheet" href="./rough.css">
 
 
 
